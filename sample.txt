@@ -1,0 +1,3 @@
+Hello, master!
+This is a sample file.
+Python file handling is fun with a coffee!
